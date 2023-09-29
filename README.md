@@ -1,4 +1,4 @@
-## 👋 Olá, sou Pedro Ryan
+##                                         Pedro Ryan
 
 🎮🚀 Desenvolvedor de jogos Unity, atualmente com 16 anos, estudante do Instituto Federal do Ceará - Campus Crato, apaixonado por tecnologia e criação de jogos.
 
