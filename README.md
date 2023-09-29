@@ -1,16 +1,21 @@
-### Hi there 👋
+## 👋 Olá, sou Pedro Ryan
 
-<!--
-**PedroRyanIsidorio/PedroRyanIsidorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮🚀 Desenvolvedor de jogos Unity, atualmente com 16 anos, estudante do Instituto Federal do Ceará - Campus Crato, apaixonado por tecnologia e criação de jogos.
 
-Here are some ideas to get you started:
+- 🎮 Desenvolvedor de Jogos Unity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Proficiente em Python e C#
+
+- 🌐 Familiarizado com HTML e CSS
+
+- 🚀 Apaixonado por criar experiências interativas
+
+- 🌟 Colaborador da comunidade open source
+
+- 🌍 Brasileiro 🇧🇷
+
+- 📷 [Instagram](https://www.instagram.com/pedro_ryan_isidorio/)
+
+- 🎮 [Steam](https://steamcommunity.com/profiles/76561198870188602/)
+
+- 👨🏽‍💻 [Linkedin](https://www.linkedin.com/in/pedro-ryan-4a81a2292/)
