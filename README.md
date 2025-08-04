@@ -17,5 +17,3 @@
 - 📷 [Instagram](https://www.instagram.com/pedro_ryan_isidorio/)
 
 - 🎮 [Steam](https://steamcommunity.com/profiles/76561198870188602/)
-
-- 👨🏽‍💻 [Linkedin](https://www.linkedin.com/in/pedro-ryan-4a81a2292/)
