@@ -6,8 +6,10 @@
 
 - 🌐 Estudando focado em backend, com java + spring boot.
 
-- 🚀 Apaixonado por criar experiências interativas
+- 🌐 Desenvolvendo um projeto de um Mapa FTTH Web para empresas de telecomunicações.
 
-- 🌟 Colaborador da comunidade open source
+- 🚀 Apaixonado por criar experiências interativas.
+
+- 🌟 Colaborador da comunidade open source.
 
 - 🌍 Brasileiro 🇧🇷
