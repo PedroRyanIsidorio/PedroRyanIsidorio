@@ -11,4 +11,3 @@
 - 🌟 Colaborador da comunidade open source
 
 - 🌍 Brasileiro 🇧🇷
-- 
