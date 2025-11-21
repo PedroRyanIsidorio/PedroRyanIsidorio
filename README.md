@@ -1,6 +1,6 @@
 ## 👋 Olá, sou Pedro Ryan
 
-🚀 Estudante de Ciência da computação pela Universidade Federal Do Cariri.
+🚀 Estudante de Ciência da Computação pela Universidade Federal Do Cariri.
 
 - 💻 Formado em Informática para internet pelo Instituto Federal do Ceará, ensino médio técnico.
 
