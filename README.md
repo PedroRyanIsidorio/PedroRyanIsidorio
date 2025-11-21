@@ -1,19 +1,14 @@
 ## 👋 Olá, sou Pedro Ryan
 
-🎮🚀 Desenvolvedor de jogos Unity, atualmente com 16 anos, estudante do Instituto Federal do Ceará - Campus Crato, apaixonado por tecnologia e criação de jogos.
+🚀 Estudante de Ciência da computação pela Universidade Federal Do Cariri.
 
-- 🎮 Desenvolvedor de Jogos Unity
+- 💻 Formado em Informatica para internet pelo Instituto Federal do Ceará, ensino médio técnico.
 
-- 💻 Proficiente em Python e C#
-
-- 🌐 Familiarizado com HTML e CSS
+- 🌐 Estudando focado em backend, com java + spring boot.
 
 - 🚀 Apaixonado por criar experiências interativas
 
 - 🌟 Colaborador da comunidade open source
 
 - 🌍 Brasileiro 🇧🇷
-
-- 📷 [Instagram](https://www.instagram.com/pedro_ryan_isidorio/)
-
-- 🎮 [Steam](https://steamcommunity.com/profiles/76561198870188602/)
+- 
