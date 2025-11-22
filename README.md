@@ -6,11 +6,25 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PedroRyanIsidorio/PedroRyanIsidorio/output/github-contribution-grid-snake.svg">
 </picture>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=480&lines=18+anos+%7C+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+UFCA;Backend+Developer:+Java+%2B+Spring+Boot;T%C3%A9cnico+em+Inform%C3%A1tica+(IFCE+Crato);Building:+Mapa+FTTH+Web" alt="Typing SVG" />
-  </a>
-</div>
+### 🚀 System Status: Online
+
+```bash
+[ryan@archlinux ~]$ neofetch --user
+---------------------------
+User:        Pedro Ryan
+Age:         18
+Role:        Backend Developer
+OS:          EndeavourOS (Arch Linux)
+
+[ryan@archlinux ~]$ cat education.txt
+> Ensino Superior: Ciência da Computação (Cursando @ UFCA)
+> Ensino Técnico:  Informática para Internet (Concluído @ IFCE Crato)
+
+[ryan@archlinux ~]$ cat current_project.txt
+> Project:   Mapa FTTH Web
+> Target:    Telecom Companies (ISP)
+> Stack:     Java, Spring Boot, PostgreSQL
+> Status:    In Development...
 
 <div align="center">
   <h3>💻 Tech Stack</h3>
