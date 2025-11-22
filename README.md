@@ -6,8 +6,8 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=250&section=header&text=Pedro%20Ryan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Rust%20Enthusiast&descAlignY=55&descAlign=50)
 
+### 💻 Tech Stack
 <div align="center">
-  ### 💻 Tech Stack
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,javascript,css,html,cpp,python,java,spring,arch,linux,git,docker,idea" />
   </a>
