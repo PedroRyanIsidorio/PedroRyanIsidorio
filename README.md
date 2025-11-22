@@ -7,7 +7,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PedroRyanIsidorio/PedroRyanIsidorio/output/github-contribution-grid-snake.svg">
   </picture>
 
-  <h3>Olá, eu sou o Pedro Ryan! 👋</h3>
+  <h2>Pedro Ryan👋</h2>
   
   <p>
     18 anos • Crato, CE
