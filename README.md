@@ -6,25 +6,37 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PedroRyanIsidorio/PedroRyanIsidorio/output/github-contribution-grid-snake.svg">
 </picture>
 
-### 🚀 System Status: Online
+<div align="center">
 
-```bash
-[ryan@archlinux ~]$ neofetch --user
----------------------------
-User:        Pedro Ryan
-Age:         18
-Role:        Backend Developer
-OS:          EndeavourOS (Arch Linux)
+  <h3>Olá, eu sou o Pedro Ryan! 👋</h3>
+  
+  <p>
+    18 anos • Crato, CE
+  </p>
 
-[ryan@archlinux ~]$ cat education.txt
-> Ensino Superior: Ciência da Computação (Cursando @ UFCA)
-> Ensino Técnico:  Informática para Internet (Concluído @ IFCE Crato)
+  <p>
+    🎓 <b>Ciência da Computação</b> @ UFCA (Cursando)<br>
+    🎓 <b>Técnico em Informática para Internet</b> @ IFCE Crato (Concluído)
+  </p>
 
-[ryan@archlinux ~]$ cat current_project.txt
-> Project:   Mapa FTTH Web
-> Target:    Telecom Companies (ISP)
-> Stack:     Java, Spring Boot, PostgreSQL
-> Status:    In Development...
+  <br>
+
+  <p>
+    🚀 <b>Foco Atual:</b> Desenvolvimento Backend com <b>Java & Spring Boot</b>
+  </p>
+  
+  <p>
+    🔭 <b>Trabalhando em:</b> <i>Mapa FTTH Web</i><br>
+    (Sistema de gestão de redes de fibra óptica para ISPs)
+  </p>
+
+  <br>
+
+  <img src="https://skillicons.dev/icons?i=c,javascript,css,html,cpp,python,java,spring,arch,linux,git,docker,idea" />
+
+  <br><br>
+
+  </div>
 
 <div align="center">
   <h3>💻 Tech Stack</h3>
@@ -32,19 +44,3 @@ OS:          EndeavourOS (Arch Linux)
     <img src="https://skillicons.dev/icons?i=c,javascript,css,html,cpp,python,java,spring,arch,linux,git,docker,idea" />
   </a>
 </div>
-
-## 👋 Olá, sou Pedro Ryan
-
-🚀 Estudante de Ciência da Computação pela Universidade Federal Do Cariri.
-
-- 💻 Formado em Informática para internet pelo Instituto Federal do Ceará, ensino médio técnico.
-
-- 🌐 Estudando focado em backend, com java + spring boot.
-
-- 🌐 Desenvolvendo um projeto de um Mapa FTTH Web para empresas de telecomunicações.
-
-- 🚀 Apaixonado por criar experiências interativas.
-
-- 🌟 Colaborador da comunidade open source.
-
-- 🌍 Brasileiro 🇧🇷
