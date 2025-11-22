@@ -7,7 +7,7 @@
   </picture>
   
   <p>
-    18 anos • Crato, CE
+    18 anos • Juazeiro do Norte - CE
   </p>
 
   <p>
