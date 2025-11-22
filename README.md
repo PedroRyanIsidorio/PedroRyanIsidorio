@@ -7,7 +7,7 @@
 ### 💻 Tech Stack
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,linux,c,cpp,python,java,spring,arch,git,docker,idea,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,spring,arch,linux,git,docker,idea" />
   </a>
 </div>
 
