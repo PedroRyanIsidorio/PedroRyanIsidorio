@@ -4,6 +4,12 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PedroRyanIsidorio/PedroRyanIsidorio/output/github-contribution-grid-snake.svg">
 </picture>
 
+### 💻 Tech Stack
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,linux,c,cpp,python,java,spring,arch,git,docker,idea,vscode&theme=dark" />
+  </a>
+</div>
 
 ## 👋 Olá, sou Pedro Ryan
 
