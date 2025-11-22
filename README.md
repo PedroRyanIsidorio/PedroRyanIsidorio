@@ -31,7 +31,7 @@
   </p>
 
   <br>
-
+  <h3>💻 Tech Stack</h3>
   <img src="https://skillicons.dev/icons?i=c,javascript,css,html,cpp,python,java,spring,arch,linux,git,docker,idea" />
 
   <br><br>
