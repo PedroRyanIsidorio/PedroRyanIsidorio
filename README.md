@@ -1,5 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=250&section=header&text=Pedro%20Ryan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student&descAlignY=55&descAlign=47)
 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=Pedro%20Ryan&fontSize=90&fontColor=00ff00&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20CS%20Student%20@%20UFCA&descAlignY=55&descAlign=50&font=vt323)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroRyanIsidorio/PedroRyanIsidorio/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroRyanIsidorio/PedroRyanIsidorio/output/github-contribution-grid-snake.svg">
