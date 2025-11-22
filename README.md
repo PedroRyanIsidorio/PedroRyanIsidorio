@@ -6,6 +6,12 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=250&section=header&text=Pedro%20Ryan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Rust%20Enthusiast&descAlignY=55&descAlign=50)
 
+<div align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=33E669&center=true&vCenter=true&width=435&lines=Ol%C3%A1,+eu+sou+o+Ryan!;Arch+Linux+User;Rust+Developer;Apaixonado+por+Astrofotografia" alt="Typing SVG" />
+</a>
+</div>
+
 ### 💻 Tech Stack
 <div align="center">
   <a href="https://skillicons.dev">
