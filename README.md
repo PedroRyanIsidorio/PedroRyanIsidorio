@@ -4,7 +4,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PedroRyanIsidorio/PedroRyanIsidorio/output/github-contribution-grid-snake.svg">
 </picture>
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=250&section=header&text=Pedro%20Ryan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student&descAlignY=55&descAlign=45)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=250&section=header&text=Pedro%20Ryan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student&descAlignY=55&descAlign=47)
 
 <div align="center">
   <h3>💻 Tech Stack</h3>
