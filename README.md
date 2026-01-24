@@ -22,17 +22,5 @@
   <p>
     🚀 <b>Foco Atual:</b> Desenvolvimento Backend com <b>Java & Spring Boot</b>
   </p>
-  
-  <p>
-    🔭 <b>Trabalhando em:</b> <i>Mapa FTTH Web</i><br>
-    (Sistema de gestão de redes de fibra óptica para ISPs)
-  </p>
-
-  <br>
-  <h3>💻 Tech Stack</h3>
-  //<img src="https://skillicons.dev/icons?i=c,javascript,css,html,react,python,java,spring,arch,linux,git,docker,idea" />
-
-  //<br><br>
-  
-
+    
   </div>
