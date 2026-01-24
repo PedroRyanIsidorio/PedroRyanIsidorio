@@ -30,8 +30,9 @@
 
   <br>
   <h3>💻 Tech Stack</h3>
-  <img src="https://skillicons.dev/icons?i=c,javascript,css,html,react,python,java,spring,arch,linux,git,docker,idea" />
+  //<img src="https://skillicons.dev/icons?i=c,javascript,css,html,react,python,java,spring,arch,linux,git,docker,idea" />
 
-  <br><br>
+  //<br><br>
+  
 
   </div>
