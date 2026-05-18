@@ -9,7 +9,7 @@
   </picture>
   
   <p>
-    18 anos • Juazeiro do Norte - CE
+    19 anos • Juazeiro do Norte - CE
   </p>
 
   <p>
