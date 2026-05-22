@@ -7,7 +7,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroRyanIsidorio/PedroRyanIsidorio/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PedroRyanIsidorio/PedroRyanIsidorio/output/github-contribution-grid-snake.svg">
   </picture>
-  
+
+  <picture> <img align="center" src="https://github.com/Nebulotico/Nebulotico/blob/main/Right_Side.gif" width = 250px></picture>
   <p>
     19 anos • Juazeiro do Norte - CE
   </p>
