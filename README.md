@@ -21,7 +21,7 @@
   <br>
 
   <p>
-    🚀 <b>Foco Atual:</b> Desenvolvimento Backend com <b>Java & Spring Boot</b>
+    🚀 <b>Foco Atual:</b> Desenvolvimento Backend com <b>Java & Spring</b>
   </p>
     
   </div>
